@@ -61,24 +61,24 @@ class _MapScreenState extends State<MapScreen> with SingleTickerProviderStateMix
     });
     _markers.add(
       Marker(
-        markerId: MarkerId("37.422264, -122.084058"),
-        position: LatLng(37.422264, -122.084058),
+        markerId: MarkerId("37.787314, -122.406072"),
+        position: LatLng(37.787314, -122.406072),
         icon: BitmapDescriptor.defaultMarker,
         onTap: () => _showModalBottomSheet(),
       ),
     );
     _markers.add(
       Marker(
-        markerId: MarkerId("37.422707, -122.085656"),
-        position: LatLng(37.422707, -122.085656),
+        markerId: MarkerId("37.786576, -122.406126"),
+        position: LatLng(37.786576, -122.406126),
         icon: BitmapDescriptor.defaultMarker,
         onTap: () => _showModalBottomSheet(),
       ),
     );
     _markers.add(
       Marker(
-        markerId: MarkerId("37.421557, -122.084841"),
-        position: LatLng(37.421557, -122.084841),
+        markerId: MarkerId("37.787475, -122.408100"),
+        position: LatLng(37.787475, -122.408100),
         icon: BitmapDescriptor.defaultMarker,
         onTap: () => _showModalBottomSheet(),
       ),
