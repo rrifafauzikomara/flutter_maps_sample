@@ -14,3 +14,9 @@ Flutter application using Google Maps, Get Current Location (Devices), Markers, 
 <pre>
 <img src="screenshot/ios1.png" width="250" height="460">     <img src="screenshot/ios2.png" width="250" height="460">     <img src="screenshot/ios3.png" width="250" height="460">     <img src="screenshot/ios4.png" width="250" height="460">
 </pre>
+
+## Author
+
+* **R Rifa Fauzi Komara**
+
+Don't forget to follow and give me a ★
