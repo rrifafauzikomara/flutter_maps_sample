@@ -2,6 +2,8 @@
 
 Flutter application using Google Maps, Get Current Location (Devices), Markers, Camera Position, Bottom Sheet, DraggableScrollableSheet, etc 🔥.
 
+Click this link to get your own <a href="https://console.developers.google.com/">API KEY</a>
+
 ### Screenshot on Android
 
 <pre>
